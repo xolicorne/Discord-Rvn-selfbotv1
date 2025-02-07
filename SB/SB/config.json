@@ -1,0 +1,7 @@
+{
+  "token": "Votre Token",
+  "prefix": "*",
+  "allowedUserIDs": [
+    "Votre ID"
+  ]
+}

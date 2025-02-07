@@ -1,0 +1,26 @@
+{
+    "mentionAlert": {
+        "enabled": true,
+        "webhookURL": ""
+    },
+    "ghostPingAlert": {
+        "enabled": true,
+        "webhookURL": ""
+    },
+    "joinAlert": {
+        "enabled": true,
+        "webhookURL": ""
+    },
+    "leaveAlert": {
+        "enabled": true,
+        "webhookURL": ""
+    },
+    "roleAddAlert": {
+        "enabled": true,
+        "webhookURL": ""
+    },
+    "roleRemoveAlert": {
+        "enabled": true,
+        "webhookURL": ""
+    }
+}
